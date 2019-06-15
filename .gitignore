@@ -1,0 +1,7 @@
+# Virtual environment and vscode, jupyter files
+venv/*
+.vscode/*
+.ipynb_checkpoints/*
+
+# Local files to work with
+all_code.py
